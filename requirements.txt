@@ -1,4 +1,6 @@
+tensorflow>=2.10.0
+torch>=1.12.0
+torchvision>=0.13.0
+numpy>=1.21.0
+matplotlib>=3.5.0
 azureml-core
-tensorflow
-torch
-torchvision
